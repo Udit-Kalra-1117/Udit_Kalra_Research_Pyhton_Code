@@ -39,12 +39,14 @@ Printed the summary.
 
 Forecasted the sales for year 2014. 
 
+ 
 
 Assumptions:  
 
 For ease I reduced the dataset values. 
 
 For more ease I reduced daily sales data into monthly sales data. 
+
  
 
 Links: 
@@ -52,3 +54,5 @@ Links:
 Dataset Link: https://www.kaggle.com/c/demand-forecasting-kernels-only/data?select=train.csv  
 
 Google Colab Link: https://colab.research.google.com/drive/1MNucIwqfHzF-pnjrO23kwh2TLMXARLvW?usp=sharing  
+
+GitHub Link: https://github.com/Udit-Kalra-1117/Udit_Kalra_Research_Pyhton_Code  
