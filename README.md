@@ -1,4 +1,4 @@
-# Udit_Kalra_Research_Pyhton_Code
+# Udit_Kalra_Research_Python_Code
 Name: Udit Kalra 
 
 Program: B.Tech CSBS 
